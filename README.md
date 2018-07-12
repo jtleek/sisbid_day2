@@ -1,1 +1,1 @@
-## This is a the real README file for my first project
+## This is the real README file for my first project
